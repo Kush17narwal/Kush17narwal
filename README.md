@@ -15,7 +15,7 @@ root@kush17narwal:~# cat mission.txt
 > use automata theory to catch bots pretending to be human
 ```
 
-<img src="./assets/neofetch.svg" alt="neofetch: C++ kernel, TypeScript and Python shell, Next.js / FastAPI stack, PostgreSQL and Docker, DFA brain" width="100%">
+<img src="./assets/neofetch.svg" alt="neofetch: Linux Tux penguin beside Kush's C++ kernel, TypeScript and Python shell, Next.js / FastAPI stack, PostgreSQL and Docker, and DFA brain" width="100%">
 
 ```console
 root@kush17narwal:~# ls -la ~/projects
